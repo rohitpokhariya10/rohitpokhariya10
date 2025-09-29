@@ -64,7 +64,7 @@
 
 - 📌 [Portfolio Website](https://portfolio-website-rohit.vercel.app/) – My personal portfolio with modern UI  
 - 📌 **Study Notion** – A learning platform built using MERN stack  
-- 📌 Blog Layout – Clean blog with text & image styling  
+
 
 ---
 
