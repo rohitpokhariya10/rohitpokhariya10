@@ -9,8 +9,8 @@
 - 🔭 Working on **Study Notion** project  
 - 👯 Looking to collaborate on **MERN Projects & Open Source**  
 - 🤝 Open to contribute & seeking help on **scalable full-stack apps**  
-- 👨‍💻 Check all my projects here: [Portfolio Website](https://portfolio-website-rohit.vercel.app/)  
-- 📄 Learn more about my experience: [Resume/Portfolio](https://portfolio-website-rohit.vercel.app/)  
+- 👨‍💻 Check all my projects here: [Portfolio Website](https://rohit-portfolio-vert.vercel.app/)  
+- 📄 Learn more about my experience: [Resume/Portfolio](https://rohit-portfolio-vert.vercel.app/)  
 - 📫 Reach me at: **rohit.pokhariya123@gmail.com**
 
 ---
