@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh Pokhariya</h1>
-<h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | React & Node.js | Building Scalable Web Apps</h3>
 
 ---
 
 ## 🔥 About Me  
 
-- 🌱 Currently mastering **MERN Stack (MongoDB, Express.js, React, Node.js)**  
-- 🔭 Working on **Study Notion** project  
-- 👯 Looking to collaborate on **MERN Projects & Open Source**  
-- 🤝 Open to contribute & seeking help on **scalable full-stack apps**  
-- 👨‍💻 Check all my projects here: [Portfolio Website](https://rohit-portfolio-vert.vercel.app/)  
-- 📄 Learn more about my experience: [Resume/Portfolio](https://rohit-portfolio-vert.vercel.app/)  
-- 📫 Reach me at: **rohit.pokhariya123@gmail.com**
+- 🎓 Final Year B.Tech CSE student at Graphic Era Hill University  
+- 🌱 Skilled in **React.js, Tailwind CSS, Node.js, Express, REST APIs**  
+- 💡 Strong foundation in **Data Structures & Algorithms**  
+- 🚀 Experience deploying production-ready apps on **Vercel**  
+- 👯 Open to collaborate on **Full Stack & Open Source projects**  
+- 👨‍💻 Portfolio: https://rohit-portfolio-vert.vercel.app  
+- 📄 Resume: https://rohit-portfolio-vert.vercel.app  
+- 📫 Email: **rohit.pokhariya123@gmail.com**
 
 ---
 
@@ -31,41 +32,55 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Tech Stack  
 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</p>
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, PostgreSQL  
+**Languages:** C, C++, JavaScript, SQL  
+**Tools:** Git, GitHub, Postman, VS Code, Vercel
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitpokhariya10&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpokhariya10&theme=tokyonight" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitpokhariya10&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpokhariya10&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpokhariya10&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpokhariya10&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-- 📌 [Portfolio Website](https://portfolio-website-rohit.vercel.app/) – My personal portfolio with modern UI  
-- 📌 **Study Notion** – A learning platform built using MERN stack  
+### 📌 StudyNotion – MERN + Razorpay  
+- Role-based access for students & instructors  
+- Video uploads, course management & analytics  
+- Secure payment integration  
+- Fully responsive UI  
 
+### 📌 Modern Animated Portfolio – React + Tailwind  
+- Clean UI with animations & transitions  
+- Optimized performance & SEO  
+- Deployed on Vercel  
+
+### 📌 Arifex-AI – PERN + Gemini API  
+- AI text generation & resume analysis  
+- Secure REST APIs  
+- Scalable SaaS architecture  
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to connect with me.*  
+## 🏆 Achievements  
+
+- 💯 Solved **100+ DSA** problems on LeetCode  
+- 🏢 Internship experience at PayrollCloud  
+- 🚀 Built multiple production-ready applications  
+
+---
+
+⭐️ Thanks for visiting my profile! Let's build something amazing together.
