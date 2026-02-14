@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Rohit Singh Pokhariya</h1>
 <h3 align="center">Full Stack Developer | React • Node • Scalable Web Apps</h3>
 
----
+--
 
 ## 🚀 About Me
 - 🎓 Final Year B.Tech CSE student
