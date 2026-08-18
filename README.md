@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Rohit Singh Pokhariya 👋</h1>
 
 <h3 align="center">Full Stack AI Developer | Building Scalable SaaS & AI-Powered Applications</h3>
@@ -237,4 +237,4 @@ AI-powered application providing text generation and resume analysis capabilitie
 <p align="center">
   <b>Building full-stack products. Exploring intelligent systems. Shipping continuously. 🚀</b>
 </p>
-```
+
