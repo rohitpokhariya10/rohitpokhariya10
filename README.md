@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Rohit Singh Pokhariya 👋</h1>
+<h1 align="center">Hi, I'm Rohit Singh Pokhariya </h1>
 
 <h3 align="center">Full Stack AI Developer | Building Scalable SaaS & AI-Powered Applications</h3>
 
