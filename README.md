@@ -241,6 +241,30 @@ I believe the fastest way to become a better engineer is to:
 
 ---
 
+## `~/contribution-graph`
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rohitpokhariya10&theme=github-compact&hide_border=true&area=true"
+  alt="Rohit's GitHub contribution graph"
+/>
+
+</div>
+
+```bash
+rohit@github:~$ git log --oneline --all
+
+commit → build
+commit → learn
+commit → break
+commit → fix
+commit → ship
+```
+
+---
+
 ## `~/github-trophies`
 
 <div align="center">
