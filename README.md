@@ -1,5 +1,4 @@
  <div align="center">
-
 # Rohit Singh Pokhariya
 
 ### Full Stack Developer • Builder • Problem Solver
